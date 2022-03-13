@@ -1,18 +1,72 @@
-# AIFFEL 제 1회 DataThon 전사팀
+![image](https://user-images.githubusercontent.com/80737049/158067418-29553982-6580-41fe-aab7-b23baf9ecd30.png)
 
+안녕하세요 Aiffel YJ 2기 Datathon에 참여한 **⚔전사⚔**입니다.
+<br>
+전력사용량 예측 데이터셋을 다양한 관점에서 해석하고 탐구하였습니다.
+<br>
+'우리는 하나다!'라는 팀 슬로건에 맞춰 협동과 화합을 가장 큰 가치로 두고 프로젝트를 진행하였습니다.
+<br>
 
+# Aiffel Datathon 이란?
+- EDA (Exploratory Data Analysis) 및 시각화 대회
+  - 아래 5가지 데이터 셋 중 하나를 선택하여 참가
+    - [리그 오브 레전드 랭크 게임 데이터셋](https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min/version/1)
+    - [코로나 데이터셋](https://www.kaggle.com/kimjihoo/coronavirusdataset)
+    - [전력 사용량 예측](https://dacon.io/competitions/official/235736/overview/description)
+    - [넷플릭스 예측](https://www.kaggle.com/shivamb/netflix-shows)
+    - [KBO 데이터셋](https://www.kaggle.com/bluemumin/kbo-baseball-for-kaggle)
+- < 대회 기간 >
+  - 2022.03.08(화) ~ 2022.03.11(금)
+- < 평가 방식 >
+  - EDA 및 시각화가 적절하게 이루어졌는가? (15%)
+  - 데이터 분석을 통한 인사이트가 도출이 잘 되었는가? (15%)
+  - 도출한 인사이트를 통해 설득력이 충분하였는가? (20%)
+  - 팀원들이 협업을 통해 프로젝트를 수행하고 발표를 진행하였는가? (25%)
+  - 발표시간을 준수하였는지? (25%)
+  - 가점 : 교육생들의 따봉 (좋아요 수치를 합산하여 가산점으로 반영)
+ 
+<br>
 
+# 우리의 전사들은?
+- 전력 사용량 예측 데이터 셋을 선택하여 참가
+- 😤😤 지휘관 **신휘정**, 전사 **서승현**, 전사 **안정희**, 전사 **정현지**로 구성 😤😤
+- 우리들의 가치
+  - EDA 방법에 충실하게 프로젝트를 참여하였습니다.
+    - a. 생각하고 - 분석 전에 문제 및 목적을 정의하고 가설을 구축
+    - b. 작업하고 - 분석을 위한 기술과 지식
+    - c. 생각한다 - 분석 결과에 대한 해석 및 스토리 구축
+  - 다양한 시행착오와 의견 나눔에 오픈 마인드!
+  - 서로 존중과 배려는 기본, 화합이란 이런 것이다!
+<br>
 
+## EDA의 흐름
+![image](https://user-images.githubusercontent.com/80737049/158070283-6a7f5e24-81bf-4a8d-ac44-ddd458d4552e.png)
+![image](https://user-images.githubusercontent.com/80737049/158070293-49ab5a0e-4517-442f-baad-066ceb959161.png)
 
+## 사용한 시각화 프로그램 및 그래프
+- Pandas Visualizer
+- 시간 시각화
+  - 막대 그래프
+- 분포 시각화
+  - 파이차트
+- 관계 시각화
+  - 스캐터 플롯
+  - 히스토그램
+  - 조인트 플롯
+- 비교 시각화
+  - 히트맵
 
+## 일정관리
+![image](https://user-images.githubusercontent.com/80737049/158069612-efc5fda8-c03d-4e57-912e-00b1159e8fd8.png)
 
+## 자료 조사 및 의견 공유 툴 - Pigma 사용
+![image](https://user-images.githubusercontent.com/80737049/158069573-3db41402-940e-44d9-84fd-1e5c4e4ad72c.png)
 
-
----
+# 마무리하며..
 
 - 지휘관 신휘정
 
-  가장 먼저 성공적으로 프로젝트를 끝마칠 수 있어 정말 기쁩니다. 대회기간에 공휴일이 있어서 쉬고 싶으셨을텐데도 10시부터 나오자고 먼저 말씀해주시는 열정과 호응 덕분에 저 또한 즐겁게, 열정가득히 프로젝트를 마무리할 수 있었어서 기뻤습니다.
+  가장 먼저 성공적으로 프로젝트를 끝마칠 수 있어 정말 기쁩니다. 대회기간에 공휴일이 있어서 쉬고 싶으셨을텐데도 10시부터 나오자고 먼저 말씀해주시는 열정과 호응 덕분에 저 또한 즐겁게, 열정 가득히 프로젝트를 마무리 지을 수 있었습니다.😤😤 분업화 하여 각자의 작업을 하면서도 이해가 되지 않는 부분이나, 새로운 의견이 생길때면 주저없이 말씀해주시고, 오류가 발생한 코드에 대해 다같이 의견을 나누면서 이게 진정한 팀이구나! 라는 생각이 많이들었습니다. 정말 정말 고생하셨고 같이 열성적으로 참여해주셔서 감사합니다!!
 
 - 전사 서승현
 
@@ -25,3 +79,9 @@
 - 전사 정현지
 
   프로젝트를 통해 사람마다 데이터를 보는 관점이 달라서 다양한 인사이트를 얻을 수 있어서 좋은 것 같습니다. 아직 서툴러서 그래프 그리는데 시간을 많이 썼지만 재미있었고, 시행착오를 겪어도 같이 해결할 수 있어서 힘이됐고, 혼자 하는 것보다는 함께 하는 게 좋다는걸 경험한것 같습니다. 모두 수고하셨습니다~
+
+###### 좀더 우리의 발자취를 자세히 보고싶다면?
+- 깃허브 코드 링크 : https://nbviewer.org/github/top-warrior/electronic/blob/main/Finished%20Code%20notebook.ipynb
+- 피그마 : 
+https://www.figma.com/file/aHZzWYwEAGEJnPyc5t2VwR/%EC%A0%84%EC%82%AC-%ED%94%BC%EA%B7%B8%EB%A7%88?node-id=159%3A187
+- PPT : https://docs.google.com/presentation/d/160qsqUtsfKaZDaMChF5rfZRNc5hJSs1J8ZKQ2kqmbyQ/edit#slide=id.g1197ac765b6_3_180
